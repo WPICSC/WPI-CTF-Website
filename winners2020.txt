@@ -1,0 +1,21 @@
+Global:
+	1st place: c0r3dump
+	2nd place: misc
+	3rd place: meltdown
+
+WPI:
+	1st place: UnOFfIcIaL tEaM
+	2nd place: team not so bad
+	3rd place: jharnois
+
+2020 prizes:
+
+	WPI-only:
+		First: Raspberry Pi 4 B (4GB)
+		Second: Raspberry Pi 3 A+
+		Third: Raspberry Pi Zero W
+
+	Worldwide
+		First: 1 BCH
+		Second: 1 ETH
+		Third: 1 LTC

@@ -1,0 +1,84 @@
+pre {
+    display: inline;
+    line-height: 18px;
+}
+
+
+.row {
+    margin-bottom: 0px;
+}
+
+#siege {
+    background: #BBBBBB;
+    box-shadow: 10px 10px 10px #000000c4;
+    overflow: hidden;
+}
+
+.tab_bar {
+    background-color: #B2B2B2;
+    font-family: 'Roboto Mono', monospace;
+    color: black;
+    line-height: 18px;
+    display: block;
+}
+
+.tab_text {
+    color: black;
+    text-decoration: none; /* no underline */
+}
+
+.ncurses_blue_bg {
+    color: white;
+    background-color: #1918B2;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 16px;
+    line-height: 18px;
+    display: block;
+}
+
+.term {
+    box-shadow: 10px 10px 10px #000000c4;
+    animation-name: term-pop;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+/ / Stay on the last frame animation-iteration-count: 1;
+/ / Run only once animation-timing-function: linear;
+}
+
+@keyframes term-pop {
+    0% {
+        opacity: 0;
+        transform: scale(0.5);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+svg {
+    max-height: 560px;
+    float: left;
+}
+
+svg path {
+    fill-opacity: 0;
+    stroke: #000;
+    stroke-width: 3;
+    animation-name: draw-svg;
+    animation-duration: 10s;
+    animation-fill-mode: forwards;
+/ / Stay on the last frame animation-iteration-count: 1;
+/ / Run only once animation-timing-function: linear;
+}
+
+@keyframes draw-svg {
+    0% {
+        stroke-dasharray: 4654;
+        stroke-dashoffset: 4654;
+    }
+    100% {
+        stroke-dashoffset: 0;
+    }
+}
+

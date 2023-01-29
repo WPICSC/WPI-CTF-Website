@@ -1,0 +1,46 @@
+Global:
+	1st place: WreckTheLine
+	2nd place: Armia Prezesa
+	3rd place: c0r3dump
+
+WPI:
+	1st place: Thaumaturgy
+	2nd place: I'd just like to interject for a moment.
+	3rd place: hi
+	4th place: Roomba
+
+Themed prizes:
+	Web:		stackola
+	Pwn:		WreckTheLine
+	Recon:		sebastianpc
+	Intro:		ωhατεvεr
+	Misc:		Armia Prezesa
+	Linux:		/dev/base
+	Reversing:	Armia Prezesa
+	Hardware:	c0r3dump
+	Crypto:		Armia Prezesa
+
+Presidential prize:	WreckTheLine
+
+
+2019 prizes:
+
+	WPI-only:
+		First: $100 Amazon Gift Card.
+		Second: $75 Amazon Gift Card.	
+		Third: $50 Amazon Gift Card.
+		Fourth: $50 Amazon Gift Card.
+
+	Worldwide
+		  First: Lenovo T440 Thinkpad.
+		  Second: Samsung Galaxy Tab A.
+		  Third: Bus Pirate v3.6a.
+
+	  First team to complete every challenge in a given category gets a category-themed prize.
+	  (Challenges added after the 24 hours after the start of the CTF are exempt from this category.)
+
+  You can win more than 1 prize!
+
+  There are some hidden prizes as well.
+
+  Prizes subject to change

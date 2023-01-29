@@ -1,0 +1,26 @@
+International:
+1st Place: VTeam
+2nd Place: Shellphish
+3rd Place: McHack
+
+
+WPI:
+1st Place: WiCyS @ WPI
+2nd Place: asphy
+3rd Place: sjmulhern
+4th Place: Geekling64
+5th Place: WPICSC
+
+
+Prizes:
+International:
+1st Place: $1000 DigitalOcean Credit
+2nd Place: $600 DigitalOcean Credit
+3rd Place: $400 DigitalOcean Credit
+
+WPI:
+1st Place: 3 Yubikey 5 NFCs, $150 Amazon Gift Card
+2nd Place: 3 Yubikey Security Key NFCs, $100 Amazon Gift Card
+3rd Place: 3 Yubikey Security Key NFCs, $50 Amazon Gift Card
+4th Place: $50 Amazon Gift Card
+5th Place: $50 Amazon Gift Card
